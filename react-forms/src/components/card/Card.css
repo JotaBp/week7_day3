@@ -1,0 +1,12 @@
+.movie-card {
+    width: 29%;
+    display: inline-block;
+    border: 1px solid rgba(0,0,0,.2);
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px
+}
+
+.movie-card h3 {
+    font-size: 1.2em
+}
